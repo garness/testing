@@ -1,0 +1,9 @@
+Prediction of Road Accident Severity
+
+Objective:
+Leverage a predictive model about road accident severity to help the community to stay safe and advise Transpotation Bureau to take necessary precautions
+
+Step1: Collect data
+Step2: Understand data
+Step3: Keep and drop the data fields and tranform the data before model development
+Step4: Tran-Test split then keep adjusting the parameters to enhance the model performance 
